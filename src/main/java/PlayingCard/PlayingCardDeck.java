@@ -1,4 +1,4 @@
-package Playingcard;
+package PlayingCard;
 
 import java.util.LinkedList;
 import java.util.Queue;

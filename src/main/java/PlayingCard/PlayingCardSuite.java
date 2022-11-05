@@ -1,4 +1,4 @@
-package Playingcard;
+package PlayingCard;
 
 public enum PlayingCardSuite {
     CLUBS,

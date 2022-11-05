@@ -1,4 +1,4 @@
-package Playingcard;
+package PlayingCard;
 
 public class PlayingCard {
     private final int id;
@@ -11,7 +11,7 @@ public class PlayingCard {
 
     private PlayingCardSuite assignSuite(int id) {
         var suite = PlayingCardSuite.CLUBS;
-        switch ((int)id % 13) {
+        switch ((int)(id % 13)) {
             case 1 -> suite = PlayingCardSuite.HEARTS;
             case 2 -> suite = PlayingCardSuite.SPADES;
             case 3 -> suite = PlayingCardSuite.DIAMONDS;

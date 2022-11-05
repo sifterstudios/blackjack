@@ -1,6 +1,4 @@
-package cards;
-
-import Playingcard.PlayingCard;
+package PlayingCard;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
@@ -16,6 +14,6 @@ public class PlayingCardDeck {
     }
 
     public PlayingCard getNextCard() {
-        return new PlayingCard();
+        return cards.poll();
     }
 }

@@ -1,7 +1,5 @@
-package cards;
+package PlayingCard;
 
-import Playingcard.PlayingCard;
-import Playingcard.PlayingCardDeck;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
