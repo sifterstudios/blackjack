@@ -4,20 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38365843-6b24-46bb-ad2b-3f3484d4e081" name="Changes" comment="" />
+    <list default="true" id="38365843-6b24-46bb-ad2b-3f3484d4e081" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cards/PlayingCardTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2H4yL52aCf2jX9MzMXxoSoN5kzs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,9 +50,45 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false"
+    "dart.analysis.tool.window.visible": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.PlayingCardTest.shouldAssignSuitWhenInstanced">
+    <configuration name="All in testproject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayingCardTest.shouldAssignSuitWhenInstanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cards" />
+      <option name="MAIN_CLASS_NAME" value="cards.PlayingCardTest" />
+      <option name="METHOD_NAME" value="shouldAssignSuitWhenInstanced" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayingCardTest.shouldAssignSuitWhenInstanced" />
+        <item itemvalue="JUnit.All in testproject" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,8 +97,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667558590940</updated>
+      <workItem from="1667586881398" duration="9185000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -51,5 +114,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Playingcard/PlayingCard.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
