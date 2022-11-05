@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38365843-6b24-46bb-ad2b-3f3484d4e081" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -13,6 +14,16 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardId.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardDeck.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playingcard/PlayingCardId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeck.java" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cards/PlayingCardDeckTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/cards/PlayingCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cards/PlayingCardTest.java" afterDir="false" />
     </list>
@@ -21,6 +32,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+>>>>>>> Stashed changes
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -31,6 +48,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xa0nr6wl" />
+  </component>
+>>>>>>> Stashed changes
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -49,8 +72,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+<<<<<<< Updated upstream
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +83,28 @@
   }
 }]]></component>
   <component name="RunManager" selected="JUnit.PlayingCardTest.shouldAssignSuitWhenInstanced">
+=======
+    "last_opened_file_path": "/home/sifter/Downloads/methodsAndMovies",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Playingcard" />
+      <recent name="cards" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in testproject">
+>>>>>>> Stashed changes
     <configuration name="All in testproject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testproject" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,6 +113,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="PlayingCardTest.shouldAssignSuitWhenInstanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testproject" />
       <extension name="coverage">
@@ -77,15 +125,55 @@
       <option name="PACKAGE_NAME" value="cards" />
       <option name="MAIN_CLASS_NAME" value="cards.PlayingCardTest" />
       <option name="METHOD_NAME" value="shouldAssignSuitWhenInstanced" />
+=======
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.adding_negative_numbers_returns_negative_one" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="adding_negative_numbers_returns_negative_one" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PlayingCardTest.shouldAssignSuitWhenInstanced" />
         <item itemvalue="JUnit.All in testproject" />
+=======
+    <configuration name="Python tests in test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in testproject" />
+        <item itemvalue="Python tests.Python tests in test" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.adding_negative_numbers_returns_negative_one" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667558590940</updated>
+<<<<<<< Updated upstream
       <workItem from="1667586881398" duration="9185000" />
+=======
+      <workItem from="1667558592344" duration="6154000" />
+      <workItem from="1667573008638" duration="6321000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
