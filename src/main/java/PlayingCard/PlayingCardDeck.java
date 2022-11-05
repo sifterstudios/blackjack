@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 public class PlayingCardDeck {
 
     private int deckSize = 0;
-    private int maxDeckSize = 52;
+    private final int maxDeckSize = 52;
     private Queue<PlayingCard> cardList;
 
 
