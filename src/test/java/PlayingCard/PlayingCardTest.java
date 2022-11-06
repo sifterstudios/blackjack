@@ -4,6 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class PlayingCardTest {
     PlayingCard card;
@@ -26,7 +27,7 @@ public class PlayingCardTest {
     @Test
     void shouldReturnFlippedAsciiWhenIsFlippedIsTrue() {
         card.flip();
-        ascii.initialize();
+        assertTrue(card.isFlipped());
         assertEquals(ascii.getAscii(52), card.getAscii());
     }
 

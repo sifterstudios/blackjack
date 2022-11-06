@@ -5,8 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Queue;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class PlayingCardDeckTest {
     PlayingCardDeck playingCardDeck;
@@ -29,6 +28,8 @@ public class PlayingCardDeckTest {
         assertEquals(52, cards.size());
         var card1  = cards.poll();
         var card2 = cards.poll();
+        assertNotNull(card1);
+        assertNotNull(card2);
         assertTrue(card1.getId()!= card2.getId());
     }
 }
