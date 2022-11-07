@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6387819-f63c-41b9-9641-b84586b9366d" name="Changes" comment="PlayingCard can flip, added ascii for all cards.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PlayingCard/PlayingCardGame.java" afterDir="false" />
+    <list default="true" id="b6387819-f63c-41b9-9641-b84586b9366d" name="Changes" comment="Done PlayingCardTest&#10;Started testing game class and terminal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PlayingCard/PlayingCardDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlayingCard/PlayingCardDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlayingCard/PlayingCardDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayingCard/PlayingCardDeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlayingCard/PlayingCardGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayingCard/PlayingCardGameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlayingCard/PlayingCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlayingCard/PlayingCardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.All in testproject">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -116,9 +111,17 @@
       <option name="presentableId" value="Default" />
       <updated>1667686902863</updated>
       <workItem from="1667686907985" duration="26000" />
-      <workItem from="1667686946387" duration="3081000" />
+      <workItem from="1667686946387" duration="3993000" />
+      <workItem from="1667830238154" duration="6000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done PlayingCardTest&#10;Started testing game class and terminal">
+      <created>1667754871094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667754871094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +142,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Tidyup" />
     <MESSAGE value="PlayingCard can flip, added ascii for all cards." />
-    <option name="LAST_COMMIT_MESSAGE" value="PlayingCard can flip, added ascii for all cards." />
+    <MESSAGE value="Done PlayingCardTest&#10;Started testing game class and terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done PlayingCardTest&#10;Started testing game class and terminal" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
